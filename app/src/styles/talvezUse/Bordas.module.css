@@ -1,0 +1,10 @@
+#Conteudo {
+    border: 10px inset indianred;
+    border-radius: 3px;
+    text-align: center;
+    padding: 15px 0 15px 0;
+    color: blueviolet;
+    font-weight: bold;
+    margin: 20px;
+    width: 70%;
+}
